@@ -1,0 +1,10 @@
+datasets>=2.20.0,<5
+gradio==4.44.1
+audioop-lts>=0.2.2; python_version >= "3.13"
+fastapi>=0.115.2,<0.116
+huggingface-hub>=0.25.0,<1
+hnswlib==0.8.0
+numpy>=1.26.0,<3
+pandas>=2.2.0,<3
+plotly>=5.22.0,<6
+starlette>=0.40.0,<0.41

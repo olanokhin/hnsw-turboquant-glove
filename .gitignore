@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.gradio/
+.env
+*.dmg
+LINKEDIN_DRAFT.md
+main.py

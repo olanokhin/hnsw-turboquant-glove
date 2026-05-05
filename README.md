@@ -1,9 +1,10 @@
 # TurboQuant x HNSW: GloVe Scaling Curve
 
-[![Hugging Face Space](https://huggingface.co/spaces/olanokhin/hnsw-turboquant-glove/badge.svg)](https://huggingface.co/spaces/olanokhin/hnsw-turboquant-glove)
+[![HF Space](https://img.shields.io/badge/🤗%20Demo-HuggingFace%20Spaces-yellow.svg)](https://huggingface.co/spaces/olanokhin/hnsw-turboquant-glove)
 [![Dataset](https://img.shields.io/badge/%F0%9F%A4%97%20Dataset-GloVe--200-yellow)](https://huggingface.co/datasets/olanokhin/glove-6b-200d-vectors)
 [![Python](https://img.shields.io/badge/Python-3.11-blue)](https://www.python.org/)
 [![Gradio](https://img.shields.io/badge/Gradio-4.44.1-orange)](https://www.gradio.app/)
+[![Author](https://img.shields.io/badge/Author-Alex_Anokhin-purple)](https://olanokhin.com)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
 Live demo: https://huggingface.co/spaces/olanokhin/hnsw-turboquant-glove
